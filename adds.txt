@@ -1,0 +1,9 @@
+yarn add express
+yarn add nodemon
+yarn add mongoose
+yarn add multer
+yarn add socket.io
+yarn add cors
+
+start server:
+node src\server.js
