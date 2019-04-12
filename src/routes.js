@@ -4,8 +4,8 @@ const multerConfig = require('./config/multer');
 
 const  routes = express.Router();
 
-const BoxController = require("./controllers/BoxController");
-const FileController = require("./controllers/FileController");
+const BoxController = require("./controller/BoxController");
+const FileController = require("./controller/FileController");
 
 // routes.get("/mantovs", (req, res) => {
 //     return res.send("Hellow Mantovs1");
